@@ -20,9 +20,7 @@ public class ExOrdenador {
         
         
         // TODO code application logic here
-      /*  System.out.print("Que tipo de raton es ");
-        Scanner sc = new Scanner(System.in);        
-        String tipo = sc.next();
+
         
         System.out.print("Que marca es la pantalla ");
        //Scanner sc = new Scanner(System.in);        
